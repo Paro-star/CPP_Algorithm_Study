@@ -1,0 +1,10 @@
+# IDE rác
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# File tạm và thực thi
+*.exe
+*.o
+*.obj
+*.out
