@@ -1,0 +1,16 @@
+# 🚀 CPP Algorithm Study
+Chào mừng bạn đến với kho lưu trữ bài tập Cấu trúc dữ liệu và Giải thuật của mình!
+
+## 📌 Giới thiệu
+Đây là nơi mình lưu trữ toàn bộ quá trình học tập DSA bằng ngôn ngữ C++.
+Các bài tập bao gồm từ thuật toán sắp xếp cơ bản đến các cấu trúc dữ liệu nâng cao.
+
+## 📂 Cấu trúc thư mục
+* **Sort:** Các thuật toán Selection, Insertion, Radix, Counting Sort...
+* **DataStructures:** Stack, Queue, Vector, Linked List...
+* **ClassWork & Homework:** Các bài tập trên lớp và về nhà (Wecode, BTVN).
+
+## 💻 Công cụ
+* IDE: CLion
+* Compiler: MinGW
+* Ngôn ngữ: C++20
