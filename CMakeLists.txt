@@ -10,6 +10,8 @@ add_executable(StudentSort_SwapCount ClassWork/ClassWork_02/StudentSort_SwapCoun
 add_executable(TriangleSort ClassWork/ClassWork_02/TriangleSort/TriangleSort.cpp)
 add_executable(TextingApp ClassWork/ClassWork_03/TextingApp/TextingApp.cpp)
 add_executable(LinkListCheckCycle ClassWork/ClassWork_03/LinkedListCheckCycle/LinkedListCheckCycle.cpp)
+add_executable(ReducedPath ClassWork/ClassWork_03/ReducedPath/ReducedPath.cpp)
+add_executable(SpliceRotation ClassWork/ClassWork_03/SpliceRotation/SpliceRotation.cpp)
 
 # --- NHÓM DATA STRUCTURES ---
 add_executable(BasicQueue DataStructures/BasicQueue/BasicQueue.cpp)
