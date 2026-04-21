@@ -8,6 +8,7 @@ add_executable(DictionarySort ClassWork/ClassWork_02/DictionarySort/DictionarySo
 add_executable(IndexSummation ClassWork/ClassWork_02/IndexSummation/IndexSummation.cpp)
 add_executable(StudentSort_SwapCount ClassWork/ClassWork_02/StudentSort_SwapCount/StudentSort_SwapCount.cpp)
 add_executable(TriangleSort ClassWork/ClassWork_02/TriangleSort/TriangleSort.cpp)
+add_executable(TextingApp ClassWork/ClassWork_03/TextingApp/TextingApp.cpp)
 
 # --- NHÓM DATA STRUCTURES ---
 add_executable(BasicQueue DataStructures/BasicQueue/BasicQueue.cpp)
