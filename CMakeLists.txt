@@ -38,7 +38,7 @@ add_executable(BracketChecker HomeWork/Homework_03/BracketChecker/BracketChecker
 add_executable(Ferry HomeWork/Homework_03/Ferry/Ferry.cpp)
 add_executable(OnlineSorting HomeWork/Homework_03/OnlineSorting/OnlineSorting.cpp)
 add_executable(WorstCase HomeWork/Homework_03/WorstCase/WorstCase.cpp)
-
+add_executable(OnlineOflineWithRank HomeWork/Homework_03/OnlineOflineWithRank/OnlineOflineWithRank.cpp)
 # --- NHÓM SEARCH & SORT ---
 add_executable(SearchBasic Search/BasicSearch/Search.cpp)
 add_executable(SearchVD1 Search/BasicSearch/VD_1.cpp)
