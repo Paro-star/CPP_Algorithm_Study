@@ -40,6 +40,7 @@ add_executable(OnlineSorting HomeWork/Homework_03/OnlineSorting/OnlineSorting.cp
 add_executable(WorstCase HomeWork/Homework_03/WorstCase/WorstCase.cpp)
 add_executable(OnlineOflineWithRank HomeWork/Homework_03/OnlineOflineWithRank/OnlineOflineWithRank.cpp)
 add_executable(TreeDrawEasy HomeWork/Homework_03/TreeDrawEasy/TreeDrawEasy.cpp)
+add_executable(TreeDrawProMax HomeWork/Homework_03/TreeDrawProMax/TreeDrawProMax.cpp)
 
 # --- NHÓM SEARCH & SORT ---
 add_executable(SearchBasic Search/BasicSearch/Search.cpp)
