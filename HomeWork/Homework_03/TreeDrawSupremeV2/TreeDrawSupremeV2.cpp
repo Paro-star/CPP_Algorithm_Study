@@ -31,8 +31,11 @@ bool Add(Node * & Root, int x) {
 
 int GetDigit(int x) {
     if (x == 0) return 1;
-    if (x < 0) x = -x;
     int count = 0;
+    if (x < 0) {
+        count = 1;
+        x = -x;
+    }
     while (x > 0) {
         count++;
         x /= 10;
@@ -76,9 +79,19 @@ void DrawTree(Node * Root, char **Table) {
         Temp[DigitCount++] = '0';
     }
     else {
+        bool isNegative = false;
+        if (Val < 0) {
+            isNegative = true;
+            Val = -Val;
+        }
+
         while (Val > 0) {
             Temp[DigitCount++] = '0' + Val % 10;
             Val /= 10;
+        }
+
+        if (isNegative) {
+            Temp[DigitCount++] = '-';
         }
     }
 
