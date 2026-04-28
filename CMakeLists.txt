@@ -42,6 +42,7 @@ add_executable(OnlineOflineWithRank HomeWork/Homework_03/OnlineOflineWithRank/On
 add_executable(TreeDrawEasy HomeWork/Homework_03/TreeDrawEasy/TreeDrawEasy.cpp)
 add_executable(TreeDrawProMax HomeWork/Homework_03/TreeDrawProMax/TreeDrawProMax.cpp)
 add_executable(TreeDrawSupremeV1 HomeWork/Homework_03/TreeDrawSupremeV1/TreeDrawSupremeV1.cpp)
+add_executable(TreeDrawSupremeV2 HomeWork/Homework_03/TreeDrawSupremeV2/TreeDrawSupremeV2.cpp)
 
 # --- NHÓM SEARCH & SORT ---
 add_executable(SearchBasic Search/BasicSearch/Search.cpp)
