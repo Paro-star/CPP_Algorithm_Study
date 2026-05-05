@@ -13,6 +13,7 @@ add_executable(LinkListCheckCycle ClassWork/ClassWork_03/LinkedListCheckCycle/Li
 add_executable(ReducedPath ClassWork/ClassWork_03/ReducedPath/ReducedPath.cpp)
 add_executable(SpliceRotation ClassWork/ClassWork_03/SpliceRotation/SpliceRotation.cpp)
 add_executable(ComparationCount ClassWork/ClassWork_04/ComparationCount/ComparationCount.cpp)
+add_executable(StudentsStorageTree ClassWork/ClassWork_04/StudentsStorageTree/StudentsStorageTree.cpp)
 
 # --- NHÓM DATA STRUCTURES ---
 add_executable(BasicQueue DataStructures/BasicQueue/BasicQueue.cpp)
