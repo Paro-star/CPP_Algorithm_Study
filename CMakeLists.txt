@@ -15,6 +15,7 @@ add_executable(SpliceRotation ClassWork/ClassWork_03/SpliceRotation/SpliceRotati
 add_executable(ComparationCount ClassWork/ClassWork_04/ComparationCount/ComparationCount.cpp)
 add_executable(StudentsStorageTree ClassWork/ClassWork_04/StudentsStorageTree/StudentsStorageTree.cpp)
 add_executable(LowerBound_UpperBound ClassWork/ClassWork_04/LowerBound_UpperBound/LowerBound_UpperBound.cpp)
+add_executable(BrotherRelationship ClassWork/ClassWork_04/BrotherRelationship/BrotherRelationship.cpp)
 
 # --- NHÓM DATA STRUCTURES ---
 add_executable(BasicQueue DataStructures/BasicQueue/BasicQueue.cpp)
