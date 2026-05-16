@@ -49,6 +49,7 @@ add_executable(TreeDrawSupremeV1 HomeWork/Homework_03/TreeDrawSupremeV1/TreeDraw
 add_executable(TreeDrawSupremeV2 HomeWork/Homework_03/TreeDrawSupremeV2/TreeDrawSupremeV2.cpp)
 
 # --- NHÓM HOMEWORK 04 ---
+add_executable(OnlineCheck_HT HomeWork/Homework_04/OnlineCheck_HT/OnlineCheck_HT.cpp)
 add_executable(OnlineGame HomeWork/Homework_04/OnlineGame/OnlineGame.cpp)
 # --- NHÓM SEARCH & SORT ---
 add_executable(SearchBasic Search/BasicSearch/Search.cpp)
