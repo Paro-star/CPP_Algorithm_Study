@@ -1,0 +1,40 @@
+12 25 13
+Y V M S LA I AA FA K HA DA Q
+V Y -6
+I DA -1
+V DA -2
+K AA -8
+HA Q -5
+K M -6
+Q S 7
+M HA 1
+V K -2
+FA Y 0
+S Y 8
+M Y -3
+K DA 6
+Q DA 5
+S HA 1
+K FA -10
+LA M -8
+S I 8
+HA LA -9
+Y AA 6
+K I -9
+V S -6
+FA HA -4
+Y HA 0
+I Y 2
+2 DA
+2 FA
+1 AA K
+1 V AA
+2 Y
+1 Y S
+1 S AA
+2 LA
+1 DA S
+1 M Y
+1 Y Q
+2 V
+1 LA M
