@@ -18,6 +18,7 @@ add_executable(LowerBound_UpperBound ClassWork/ClassWork_04/LowerBound_UpperBoun
 add_executable(BrotherRelationship ClassWork/ClassWork_04/BrotherRelationship/BrotherRelationship.cpp)
 add_executable(BalanceCheck ClassWork/ClassWork_05/BalanceCheck/BalanceCheck.cpp)
 add_executable(CollisionRate ClassWork/ClassWork_05/CollisionRate/CollisionRate.cpp)
+add_executable(RemoveStudents ClassWork/ClassWork_05/RemoveStudents/RemoveStudents.cpp)
 
 # --- NHÓM DATA STRUCTURES ---
 add_executable(BasicQueue DataStructures/BasicQueue/BasicQueue.cpp)
